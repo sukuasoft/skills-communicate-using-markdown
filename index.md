@@ -12,3 +12,10 @@ Brief alignment of the order of galaxy to city
 ```
   console.log('Olá mundo!');
 ```
+
+# To-Do List
+[x] Have breakfast
+[] Go to store
+[] Come back home
+[] Learn to program
+[] To sleep
