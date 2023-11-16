@@ -7,3 +7,8 @@
 ###### Viana
 
 Brief alignment of the order of galaxy to city
+
+# Example Code
+```
+  console.log('Olá mundo!');
+```
