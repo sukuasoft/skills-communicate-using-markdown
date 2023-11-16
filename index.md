@@ -15,7 +15,7 @@ Brief alignment of the order of galaxy to city
 
 # To-Do List
 - [x] Have breakfast
-- [] Go to store
-- [] Come back home
-- [] Learn to program
-- [] To sleep
+- [ ] Go to store
+- [ ] Come back home
+- [ ] Learn to program
+- [ ] To sleep
